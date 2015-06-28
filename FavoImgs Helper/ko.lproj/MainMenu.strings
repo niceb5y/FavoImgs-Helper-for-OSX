@@ -1,0 +1,72 @@
+
+/* Class = "NSMenuItem"; title = "FavoImgs Helper"; ObjectID = "1Xt-HY-uBw"; */
+"1Xt-HY-uBw.title" = "관트짤줍 헬퍼";
+
+/* Class = "NSButtonCell"; title = "Exclude Retweets"; ObjectID = "2M4-oq-tII"; */
+"2M4-oq-tII.title" = "리트윗 제외";
+
+/* Class = "NSButtonCell"; title = "someone"; ObjectID = "2MH-id-Kxw"; */
+"2MH-id-Kxw.title" = "특정 인물";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "2Q4-l2-h9z"; */
+"2Q4-l2-h9z.title" = "도움말";
+
+/* Class = "NSMenuItem"; title = "Quit FavoImgs Helper"; ObjectID = "4sb-4s-VLi"; */
+"4sb-4s-VLi.title" = "관트짤줍 헬퍼 종료";
+
+/* Class = "NSMenuItem"; title = "About FavoImgs Helper"; ObjectID = "5kV-Vb-QxS"; */
+"5kV-Vb-QxS.title" = "관트짤줍 헬퍼에 관하여";
+
+/* Class = "NSTextFieldCell"; title = "Name"; ObjectID = "99r-6y-huP"; */
+"99r-6y-huP.title" = "이름";
+
+/* Class = "NSTextFieldCell"; title = "Path"; ObjectID = "9c1-5X-sHN"; */
+"9c1-5X-sHN.title" = "경로";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "A5T-W7-vHI"; */
+"A5T-W7-vHI.title" = "도움말";
+
+/* Class = "NSMenu"; title = "Main Menu"; ObjectID = "AYu-sK-qS6"; */
+"AYu-sK-qS6.title" = "메인 메뉴";
+
+/* Class = "NSMenuItem"; title = "Tool"; ObjectID = "H8h-7b-M4v"; */
+"H8h-7b-M4v.title" = "도구";
+
+/* Class = "NSButtonCell"; title = "..."; ObjectID = "HEK-MM-AZP"; */
+"HEK-MM-AZP.title" = "...";
+
+/* Class = "NSTextFieldCell"; title = "Source"; ObjectID = "HSl-pd-O2T"; */
+"HSl-pd-O2T.title" = "대상";
+
+/* Class = "NSMenu"; title = "Tool"; ObjectID = "HyV-fh-RgO"; */
+"HyV-fh-RgO.title" = "도구";
+
+/* Class = "NSComboBoxCell"; MUj-Fu-faY.ibShadowedObjectValues[0] = "favorites"; ObjectID = "MUj-Fu-faY"; */
+"MUj-Fu-faY.ibShadowedObjectValues[0]" = "favorites";
+
+/* Class = "NSComboBoxCell"; MUj-Fu-faY.ibShadowedObjectValues[1] = "list"; ObjectID = "MUj-Fu-faY"; */
+"MUj-Fu-faY.ibShadowedObjectValues[1]" = "list";
+
+/* Class = "NSComboBoxCell"; MUj-Fu-faY.ibShadowedObjectValues[2] = "tweets"; ObjectID = "MUj-Fu-faY"; */
+"MUj-Fu-faY.ibShadowedObjectValues[2]" = "tweets";
+
+/* Class = "NSComboBoxCell"; MUj-Fu-faY.ibShadowedObjectValues[3] = "hashtag"; ObjectID = "MUj-Fu-faY"; */
+"MUj-Fu-faY.ibShadowedObjectValues[3]" = "hashtag";
+
+/* Class = "NSButtonCell"; title = "Get"; ObjectID = "Ppj-pm-Uuy"; */
+"Ppj-pm-Uuy.title" = "가져오기";
+
+/* Class = "NSWindow"; title = "FavoImgs Helper"; ObjectID = "QvC-M9-y7g"; */
+"QvC-M9-y7g.title" = "관트짤줍 헬퍼";
+
+/* Class = "NSButtonCell"; title = "Group"; ObjectID = "fzF-6d-t3w"; */
+"fzF-6d-t3w.title" = "그룹";
+
+/* Class = "NSMenu"; title = "Help"; ObjectID = "lQ4-Bk-yWC"; */
+"lQ4-Bk-yWC.title" = "도움말";
+
+/* Class = "NSMenuItem"; title = "Reset Path"; ObjectID = "snW-S8-Cw5"; */
+"snW-S8-Cw5.title" = "경로 초기화";
+
+/* Class = "NSMenu"; title = "FavoImgs Helper"; ObjectID = "uQy-DD-JDr"; */
+"uQy-DD-JDr.title" = "관트짤줍 헬퍼";

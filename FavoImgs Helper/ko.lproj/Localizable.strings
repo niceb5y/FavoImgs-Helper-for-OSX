@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  FavoImgs Helper
+
+  Created by 김승호 on 2015. 6. 28..
+  Copyright (c) 2015년 Seungho Kim. All rights reserved.
+*/
+
+"FavoImgs-Helper" = "관트짤줍 헬퍼";
+"FavoImgs-Not-Exist" = "관트짤줍이 존재하지 않습니다.\n관트짤줍 모노를 다운로드받고 관트짤줍 헬퍼를 다시 실행해 주세요.";
+"Path" = "경로   %@";
+"Enter-Name" = "%@ 이름을 입력해주세요.";
+"Enter-Account-Name" = "짤줍할 계정을 입력해주세요.";
+"FavoImgs-Helper-Info" = "관트짤줍 헬퍼 - 관트짤줍 GUI 프론트엔드";
+"FavoImgs-Helper-Credit" = "버전 %@\n제작 @niceb5y";
