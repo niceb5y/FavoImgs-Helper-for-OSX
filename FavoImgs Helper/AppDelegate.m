@@ -141,7 +141,8 @@
 }
 
 - (void)runFavoImgswithArgs:(NSString *)args {
-    NSString *cmd = [[NSString stringWithFormat:@"mono FavoImgs.exe "] stringByAppendingString:args];
+    NSString *curPath = [[[NSBundle mainBundle] bundlePath] stringByDeletingLastPathComponent];
+    NSString *cmd = [[NSString stringWithFormat:@"mono %@/FavoImgs.exe ", curPath] stringByAppendingString:args];
     [_spinner startAnimation:self];
     system([cmd UTF8String]);
     [_spinner stopAnimation:self];
