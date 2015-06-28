@@ -24,9 +24,9 @@
 }
 
 - (void)applicationDidFinishLaunching:(NSNotification *)aNotification {
-    NSFileManager *fileManager = [[NSFileManager alloc] init];
-    NSString *curPath = fileManager.currentDirectoryPath;
-    if (![fileManager fileExistsAtPath:[curPath stringByAppendingString:@"/favoimgs.exe"]]) {
+    NSFileManager *fileManager = [NSFileManager defaultManager];
+    NSString *curPath = [[[NSBundle mainBundle] bundlePath] stringByDeletingLastPathComponent];
+    if (![fileManager fileExistsAtPath:[curPath stringByAppendingString:@"/FavoImgs.exe"]]) {
         NSAlert *alert = [[NSAlert alloc] init];
         [alert setMessageText:NSLocalizedString(@"FavoImgs-Helper", @"FavoImgs Helper")];
         [alert setInformativeText:NSLocalizedString(@"FavoImgs-Not-Exist", @"FavoImgs Not Exist")];
